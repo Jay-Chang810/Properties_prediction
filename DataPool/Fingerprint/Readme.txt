@@ -1,0 +1,1 @@
+To generate the fingerprints, run the code in the Preprocess folder.
